@@ -30,3 +30,6 @@ El martes 23 de la semana que viene estás libre de 18 a 19hs y tienes ganas de 
 - 📒**Tarea 1** Usando la app, debes encontrar una clase de danza que se adapte a tus necesidades anteriormente designadas: cercana a tu ubicación, el martes 23 de marzo y de 18 a 19hs.
 - 📒**Tarea 2** Inscribirse en la clase y abonarla con tarjeta.
 
+## 👥Colaboradores 
+**Paz Van Morlegan** www.linkedin.com/in/paz-van-morlegan-496ab22a
+
