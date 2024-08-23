@@ -1,3 +1,5 @@
+![Desktop - 102](https://github.com/user-attachments/assets/51c94a64-e3ee-465f-89ab-d3d25cc6585b)
+
 # **FINDANCE** 💜💛
 La aplicación que hace que encontrar clases de danza adaptadas a tus necesidades y expectativas sea fácil y rápido.
 
